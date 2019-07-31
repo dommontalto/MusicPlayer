@@ -28,7 +28,7 @@
                                             <constraint firstAttribute="height" constant="60" id="KBs-zG-uXW"/>
                                         </constraints>
                                         <fontDescription key="fontDescription" name="AvenirNext-Bold" family="Avenir Next" pointSize="20"/>
-                                        <state key="normal" title="Button">
+                                        <state key="normal" title="Alternative">
                                             <color key="titleColor" red="0.97647058819999999" green="0.98823529409999999" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                         </state>
                                         <connections>
@@ -42,7 +42,7 @@
                                             <constraint firstAttribute="height" constant="60" id="Kml-PM-htH"/>
                                         </constraints>
                                         <fontDescription key="fontDescription" name="AvenirNext-Bold" family="Avenir Next" pointSize="20"/>
-                                        <state key="normal" title="Button">
+                                        <state key="normal" title="Classical">
                                             <color key="titleColor" red="0.97647058819999999" green="0.98823529409999999" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                         </state>
                                         <connections>
@@ -56,7 +56,7 @@
                                             <constraint firstAttribute="height" constant="60" id="aJ9-Jf-If1"/>
                                         </constraints>
                                         <fontDescription key="fontDescription" name="AvenirNext-Bold" family="Avenir Next" pointSize="20"/>
-                                        <state key="normal" title="Button">
+                                        <state key="normal" title="Dance">
                                             <color key="titleColor" red="0.97647058819999999" green="0.98823529409999999" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                         </state>
                                         <connections>
