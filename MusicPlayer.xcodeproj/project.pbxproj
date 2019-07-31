@@ -8,22 +8,22 @@
 
 /* Begin PBXBuildFile section */
 		7826817B22F18887004767B8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7826817A22F18887004767B8 /* AppDelegate.swift */; };
-		7826817D22F18887004767B8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7826817C22F18887004767B8 /* ViewController.swift */; };
 		7826818022F18887004767B8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7826817E22F18887004767B8 /* Main.storyboard */; };
 		7826818322F18887004767B8 /* MusicPlayer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7826818122F18887004767B8 /* MusicPlayer.xcdatamodeld */; };
 		7826818522F18888004767B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7826818422F18888004767B8 /* Assets.xcassets */; };
 		7826818822F18888004767B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7826818622F18888004767B8 /* LaunchScreen.storyboard */; };
+		7826819022F18999004767B8 /* GenreButtonScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7826818F22F18999004767B8 /* GenreButtonScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		7826817722F18887004767B8 /* MusicPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MusicPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7826817A22F18887004767B8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		7826817C22F18887004767B8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		7826817F22F18887004767B8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7826818222F18887004767B8 /* MusicPlayer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MusicPlayer.xcdatamodel; sourceTree = "<group>"; };
 		7826818422F18888004767B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7826818722F18888004767B8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7826818922F18888004767B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7826818F22F18999004767B8 /* GenreButtonScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenreButtonScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,12 +57,12 @@
 			isa = PBXGroup;
 			children = (
 				7826817A22F18887004767B8 /* AppDelegate.swift */,
-				7826817C22F18887004767B8 /* ViewController.swift */,
 				7826817E22F18887004767B8 /* Main.storyboard */,
 				7826818422F18888004767B8 /* Assets.xcassets */,
 				7826818622F18888004767B8 /* LaunchScreen.storyboard */,
 				7826818922F18888004767B8 /* Info.plist */,
 				7826818122F18887004767B8 /* MusicPlayer.xcdatamodeld */,
+				7826818F22F18999004767B8 /* GenreButtonScreen.swift */,
 			);
 			path = MusicPlayer;
 			sourceTree = "<group>";
@@ -138,9 +138,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7826817D22F18887004767B8 /* ViewController.swift in Sources */,
 				7826818322F18887004767B8 /* MusicPlayer.xcdatamodeld in Sources */,
 				7826817B22F18887004767B8 /* AppDelegate.swift in Sources */,
+				7826819022F18999004767B8 /* GenreButtonScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
